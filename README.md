@@ -13,21 +13,22 @@ Aplicación web creada en React que muestra un listado de usuarios con opciones 
 Ejecuta el siguiente comando para clonar el proyecto:
 
 ```bash
-git clone https://github.com/usuario/dashboard-usuarios.git
+git clone https://github.com/Anibal-quintero/react-user-dashboard.git
 ```
 
 ### **2. Instalar dependencias**
 
 Accede al directorio del proyecto y ejecuta:
 
-cd dashboard-usuarios  
+cd react-user-dashboard  
  npm install
 
 ### **3. Ejecutar el proyecto**
 
 Inicia el servidor de desarrollo:
+npm run dev
 
-El proyecto estará disponible en: http://localhost:3000/
+El proyecto estará disponible en: http://localhost:5173/
 
 Tecnologías Utilizadas
 React: Componentes funcionales y Hooks.
@@ -35,4 +36,4 @@ React Router: Navegación entre rutas.
 Tailwind CSS.
 
 Enlace al sitio desplegado
-Dashboard de Usuarios: http://localhost:3000/
+Dashboard de Usuarios: https://react-user-dashboard-tbks.onrender.com

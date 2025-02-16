@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import useFetch from "../hook/useFetch";
-import Table from "../components/table";
+import Table from "../components/Table";
 import spinner from "/src/assets/spinner.svg";
 
 export const Home = () => {
