@@ -2,7 +2,7 @@
 
 ### **Descripción**
 
-Aplicación web creada en React que muestra un listado de usuarios con opciones de búsqueda, filtrado y navegación a detalles de usuario.
+Aplicación web desarrollada con React que permite mostrar un listado de usuarios consumiendo datos de una API pública, con opciones de búsqueda, filtrado y navegación a una página de detalles de usuario.
 
 ---
 
@@ -10,7 +10,7 @@ Aplicación web creada en React que muestra un listado de usuarios con opciones 
 
 ### **1. Clonar el repositorio**
 
-Ejecuta el siguiente comando para clonar el proyecto:
+Clona el repositorio en tu máquina local con el siguiente comando:
 
 ```bash
 git clone https://github.com/Anibal-quintero/react-user-dashboard.git
@@ -18,22 +18,23 @@ git clone https://github.com/Anibal-quintero/react-user-dashboard.git
 
 ### **2. Instalar dependencias**
 
-Accede al directorio del proyecto y ejecuta:
+Accede al directorio del proyecto:
 
-cd react-user-dashboard  
- npm install
+cd react-user-dashboard
+npm install
 
 ### **3. Ejecutar el proyecto**
 
-Inicia el servidor de desarrollo:
+Inicia el servidor de desarrollo con:
 npm run dev
 
-El proyecto estará disponible en: http://localhost:5173/
+Abre tu navegador y accede al proyecto en: http://localhost:5173/
 
 Tecnologías Utilizadas
-React: Componentes funcionales y Hooks.
-React Router: Navegación entre rutas.
-Tailwind CSS.
 
-Enlace al sitio desplegado
+- React: Componentes funcionales y Hooks.
+- React Router: Navegación entre rutas.
+- Tailwind CSS.
+
+Enlace al Sitio Desplegado
 Dashboard de Usuarios: https://react-user-dashboard-tbks.onrender.com
